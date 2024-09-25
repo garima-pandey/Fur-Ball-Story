@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from "../../../assets/FurBallStoryV1.png";
+import Logo from "../../../assets/final.png";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCartShopping, faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
 
